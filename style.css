@@ -50,7 +50,7 @@ header {
         right: 0; }
         header nav li.nav-contact a {
           background-color: #ffc424;
-          background-image: url(../img/contact.png);
+          background-image: url(img/contact.png);
           background-repeat: no-repeat;
           background-position: 22px 15px;
           line-height: 50px;
@@ -93,7 +93,7 @@ header {
     clear: both; }
 
 .main-image {
-  background-image: url(../img/waiwai.jpg);
+  background-image: url(img/waiwai.jpg);
   background-repeat: no-repeat;
   background-position: center top;
   height: 350px;
@@ -111,14 +111,14 @@ header {
   border: 1px solid #146DA8;
   padding-top: 159px;
   background-color: #adc6d9;
-  background-image: url(../img/meet.png);
+  background-image: url(img/meet.png);
   background-repeat: no-repeat;
   background-position: center 15px; }
   .reason-3 dl:nth-of-type(2) {
-    background-image: url(../img/genjitu.jpg);
+    background-image: url(img/genjitu.jpg);
     background-position: center 19px; }
   .reason-3 dl:nth-of-type(3) {
-    background-image: url(https://github.com/badoshigeshige/america-study-ab/blob/master/img/amerika.jpg);
+    background-image: url(img/amerika.jpg);
     background-position: center 17px;
     margin-right: 0; }
 .reason-3 dt {
@@ -133,7 +133,7 @@ header {
   list-style: none; }
 .reason-3 li {
   margin-bottom: 0.5rem;
-  background-image: url(../img/list.png);
+  background-image: url(img/list.png);
   background-repeat: no-repeat;
   background-position: left 8px;
   padding-left: 12px; }
